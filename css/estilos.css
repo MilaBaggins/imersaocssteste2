@@ -1,0 +1,64 @@
+body {
+    background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Universe-Solar-System-Wallpaper-PIC-WPD007652.jpg");
+    background-position: center;
+    background-size: auto 100vh;
+    font-family: calibri;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  .menu li {
+    list-style: none
+  }
+  
+  a {
+    color: black;
+    font-family: monospace;
+    text-decoration: none;
+    
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:hover {
+    color: red;
+    transition: all 2s;
+    cursor: pointer;
+    
+}
+
+
+h1:hover {
+    color: Yellow;
+    transition: all 2s;
+}
+
+h4:hover {
+    color: yellow;
+    transition: all 2s;
+}
+  .site-title {
+    color: black;
+    font-family: monospace;
+    font-weight: 100;
+    text-align: center;
+    
+  }
+  
+  .site-subtitle {
+    color: whitesmoke;
+    font-family: monospace;
+    font-weight: 100;
+    text-align: center;
+    
+  }
